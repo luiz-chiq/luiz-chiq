@@ -15,6 +15,8 @@ I'm currently learning Kotlin, TypeScript and improving my knowledge in Spring.
 <img alt="Javascript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img alt="Typescript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="React logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img alt="HTML logo" style="height: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img alt="CSS logo" style="height: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
 <img alt="Java logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Kotlin logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
@@ -50,7 +52,7 @@ Portuguese is my native language, and I also speak English.
 ### 📩 How to reach me
 <div>
 <a style="height: 35px;" href="https://www.linkedin.com/in/luiz-chiquetano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a style="height: 35px;" href="mailto:chiquetanoluiz.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a style="height: 35px;" href="mailto:chiquetanoluiz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
