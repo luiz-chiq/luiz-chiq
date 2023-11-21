@@ -12,10 +12,13 @@ I'm currently learning Kotlin, TypeScript and improving my knowledge in Spring.
 ### Which languages have I been programming and studying the most?
 <!-- I have a strong interest in Front-End development, particularly Javascript, TypeScript, React, React Native and design in general. -->
 <div>
-<img alt="Spring logo" style="height: 35px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg"/>
-<img alt="Typescript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="Javascript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img alt="Typescript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="React logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<br>
+<img alt="Java logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="Kotlin logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
+<img alt="Spring logo" style="height: 35px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg"/>
 </div>
 
 ### Programming languages I've coded before
@@ -24,8 +27,6 @@ I'm currently learning Kotlin, TypeScript and improving my knowledge in Spring.
 <img alt="PHP logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img alt="Python logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="MySQL logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img alt="Java logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img alt="Kotlin logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
 </div>
 
 ### Tools and Technologies
